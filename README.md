@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Welcome to the README file for the API testing individual project. This project aims to provide comprehensive testing for the API documented in the provided link: API Documentation.
+Welcome to the README file for the API testing individual project. This project aims to provide comprehensive testing for the API documented in the provided link: [API Documentation] (https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit).
 
 ## Objective:
 
